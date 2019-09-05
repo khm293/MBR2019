@@ -6,7 +6,7 @@ library(rgdal)
 
 ###  Read in CSV  ###
 
-setwd('/Users/katie/Desktop/') ###SET TO YOUR LOCAL DIRECTORY CONTAINING THE DOWNLOADED CSV FILE
+setwd('') ###SET TO YOUR LOCAL DIRECTORY CONTAINING THE CSV FILE
 
 locations=read.csv('fig1_locations.csv')
 locations=as.data.frame(locations)
