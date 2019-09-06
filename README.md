@@ -1,4 +1,4 @@
-# MBR_review
+# MBR2019
 
 This repo contains the R code and csv file for reproducing Figure 1 in Markovich, K.H., Manning, A.H., Condon, L.E., and McIntosh, J.C. (2019). Mountain-block Recharge: A Review of Current Understanding, Water Resources Research, in press. 
 
